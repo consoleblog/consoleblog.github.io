@@ -15,14 +15,14 @@ social:
   rss: true
 
 twitter:
-  username:
+  username: kaumac
 
 github:
-  username:
+  username: kaumac
 
 addit:
-  facebook: false
+  facebook: true
   twitter: true
   gplus: true
-  pinit: false
+  pinit: true
   publid:
