@@ -97,5 +97,5 @@ markdown:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: github
-  repository: https://github.com/consoleblog/consoleblog.github.com.git
+  repository: https://github.com/consoleblog/consoleblog.github.io.git
   branch: master
