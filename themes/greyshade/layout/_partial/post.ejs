@@ -3,6 +3,7 @@
 </article>
 <% if(!index) { %>
   <%- partial('post/sharing') %>
+  <%- partial('disqus') %>
 <% } %>
 <% if(config.disqus_shortname && page.comments) { %>
 <section id="comment">

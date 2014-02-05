@@ -9,6 +9,10 @@ excerpt_link: Continue →
 mathjax: true
 fancybox: true
 
+email: kaumac@gmail.com
+
+disqus_shortname: console-blog
+
 social:
   twitter: true
   github: true
