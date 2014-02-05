@@ -3,18 +3,18 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
+title: ConsoleBlog
 subtitle:
 description:
-author: John Doe
+author: Kaue Machado
 email:
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://consoleblog.github.io
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :day/:month/:year/:title/
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
