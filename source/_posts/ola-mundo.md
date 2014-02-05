@@ -5,6 +5,7 @@ tags:
 Depois de muito (muito mesmo) tempo postergando criar um blog, finalmente resolvi tirar a ideia do papel aproveitando o ritmo de mudanças que estão acontecendo pra mim nesse começo de ano. Resolvi começar bem simples: Utilizei o Hexo com um tema pronto (Greyshade) e nada mais. Isso com algum tempo livre e vontade.
 
 <!-- more -->
+{% youtube or85nKkmXaw %}
 ## Propósito
 A ideia desse blog, pelo menos de imediato, não é ser popular com grande volume de acessos. Minha ideia é simplesmente compartilhar o conhecimento que vou adquirir daqui em diante (e o que já tenho, claro) e assim espero ajudar pessoas que estejam com os mesmos problemas, ou que esteja aprendendo as mesmas coisas que eu ja aprendi.
 
